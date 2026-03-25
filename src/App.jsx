@@ -25,6 +25,7 @@ function App() {
     { label: 'Instagram', link: 'https://www.instagram.com/shpe_elco/' },
     { label: 'GitHub', link: 'https://github.com/ECCSHPE' },
     { label: 'LinkedIn', link: 'https://www.linkedin.com/company/society-of-hispanic-professional-engineers-el-camino-college/' }
+    { label: 'Discord', link: 'https://discord.gg/3y4eTjFg' }
   ];
 
   const handleNavigate = (href) => {
